@@ -1,0 +1,8 @@
+.env
+.logs
+id_fy/__pycache__
+.idea
+IDfy.logs
+
+# Ignore virtual environment
+idfy/
